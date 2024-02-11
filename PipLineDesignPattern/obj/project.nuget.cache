@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oPJ54rhvg9baFOGOC/lu/mJoRWURRDAp8Vubu3nGuFNWjOrgzJ5EkN0QYBq1L85xqpYKNYCTkkF9rAM981ZORA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ArashKaf\\Desktop\\G1\\Repository\\PipelineDesignPattern\\src\\ArashKazemzade\\PipLineDesignPattern\\PipLineDesignPattern\\PipLineDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArashKaf\\.nuget\\packages\\dumpify\\0.6.3\\dumpify.0.6.3.nupkg.sha512",
+    "C:\\Users\\ArashKaf\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\ArashKaf\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
